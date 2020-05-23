@@ -1,0 +1,1 @@
+﻿public interface INameValuePair<T> { string Name { get; } T Value { get; set; } }
